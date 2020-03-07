@@ -45,3 +45,8 @@ QQ ： 2162498688
 微信：starRTC
 
 QQ群：807242783
+
+项目文档地址
+https://docs.starrtc.com/zh-cn/download/index.html
+根项目地址
+https://github.com/starrtc
